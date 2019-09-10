@@ -6,18 +6,18 @@
 **1080p**:
 
 - scale=w=1920:h=1080:force_original_aspect_ratio=decrease
-- b:v 5000k
-- maxrate 5350k
-- bufsize 7500k
-- b:a 192k
+- -b:v 5000k
+- -maxrate 5350k
+- -bufsize 7500k
+- -b:a 192k
 
 **720p**:
 
-- scale=w=1280:h=720:force_original_aspect_ratio=decrease
-- b:v 2800k
-- maxrate 2996k
-- bufsize 4200k
-- b:a 128k
+- -scale=w=1280:h=720:force_original_aspect_ratio=decrease
+- -b:v 2800k
+- -maxrate 2996k
+- -bufsize 4200k
+- -b:a 128k
 
 **480p**:
 
