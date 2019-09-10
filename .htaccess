@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{REQUEST_URI} .*ts$|.*m3u8$ [NC]
+RewriteRule ^(.*) stream.php?file=$1 [NC,L]
