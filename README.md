@@ -3,6 +3,17 @@
 - ffmpeg -i input.mp4 -profile:v baseline -level 3.0 -s 640x360 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls index.m3u8
 - ffmpeg -i input.mp4 -vf scale=w=1280:h=720:force_original_aspect_ratio=decrease -c:a aac -ar 48000 -c:v h264 -profile:v main -crf 20 -sc_threshold 0 -g 48 -keyint_min 48 -hls_playlist_type vod -b:v 2800k -maxrate 2996k -bufsize 4200k -b:a 128k -hls_time 10 -hls_list_size 0 -f hls index.m3u8
 
+# Filename
+
+- ffmpeg -i input.mp4 -vf scale=w=1280:h=720:force_original_aspect_ratio=decrease -c:a aac -ar 48000 -c:v h264 -profile:v main -crf 20 -sc_threshold 0 -g 48 -keyint_min 48 -hls_playlist_type vod -b:v 2800k -maxrate 2996k -bufsize 4200k -b:a 128k -segment_list index.m3u8 -segment_time 10 -f ssegment -strftime 1 uuid-%Y*%m*%d-%H\*%M\_%S.ts
+
+**Filename**
+
+- -segment_list index.m3u8
+- -segment_time 10
+- -f ssegment
+- -strftime 1 uuid-%Y*%m*%d-%H*%M*%S.ts
+
 # Webcam
 
 - ffmpeg -f dshow -i video="DroidCam Source 3" -profile:v high -pix_fmt yuvj420p -level:v 4.1 -preset veryfast -tune zerolatency -c:v h264 -r 60 -b:v 2800k -s 1280x720 -c:a aac -ac 2 -ab 32k -ar 48000 -hls_time 20 -hls_list_size 0 -f hls index.m3u8
