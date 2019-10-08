@@ -1,0 +1,556 @@
+{
+    "fragment": [
+        {
+            "alerts": {
+                "moviment": false,
+                "other": true,
+                "person": false,
+                "thumbnail": "https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/07/03165544/Thumbnail-Youtube-o-que-%C3%A9-8-dicas-de-como-fazer-e-principais-ferramentas-300x200.jpg"
+            },
+            "name": "index0.ts",
+            "seg_start": 0,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index1.ts",
+            "seg_start": 9.6096,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index2.ts",
+            "seg_start": 19.2192,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index3.ts",
+            "seg_start": 28.8288,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index4.ts",
+            "seg_start": 40.04,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index5.ts",
+            "seg_start": 49.6496,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index6.ts",
+            "seg_start": 59.2592,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index7.ts",
+            "seg_start": 68.8688,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index8.ts",
+            "seg_start": 80.08,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index9.ts",
+            "seg_start": 89.6896,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index10.ts",
+            "seg_start": 99.2992,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index11.ts",
+            "seg_start": 108.9088,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": true,
+                "other": false,
+                "person": false,
+                "thumbnail": "https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/07/03165544/Thumbnail-Youtube-o-que-%C3%A9-8-dicas-de-como-fazer-e-principais-ferramentas-300x200.jpg"
+            },
+            "name": "index12.ts",
+            "seg_start": 120.12,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index13.ts",
+            "seg_start": 129.7296,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index14.ts",
+            "seg_start": 139.3392,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index15.ts",
+            "seg_start": 148.9488,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index16.ts",
+            "seg_start": 160.16,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index17.ts",
+            "seg_start": 169.7696,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index18.ts",
+            "seg_start": 179.3792,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index19.ts",
+            "seg_start": 188.9888,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index20.ts",
+            "seg_start": 200.2,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index21.ts",
+            "seg_start": 209.8096,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index22.ts",
+            "seg_start": 219.4192,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index23.ts",
+            "seg_start": 229.0288,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index24.ts",
+            "seg_start": 240.23999999999998,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index25.ts",
+            "seg_start": 249.84959999999998,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index26.ts",
+            "seg_start": 259.4592,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index27.ts",
+            "seg_start": 269.0688,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": true,
+                "other": true,
+                "person": true,
+                "thumbnail": "https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/07/03165544/Thumbnail-Youtube-o-que-%C3%A9-8-dicas-de-como-fazer-e-principais-ferramentas-300x200.jpg"
+            },
+            "name": "index28.ts",
+            "seg_start": 280.28000000000003,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index29.ts",
+            "seg_start": 289.88960000000003,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index30.ts",
+            "seg_start": 299.49920000000003,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index31.ts",
+            "seg_start": 309.10880000000003,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index32.ts",
+            "seg_start": 320.32000000000005,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index33.ts",
+            "seg_start": 329.92960000000005,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index34.ts",
+            "seg_start": 339.53920000000005,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index35.ts",
+            "seg_start": 349.14880000000005,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index36.ts",
+            "seg_start": 360.36000000000007,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index37.ts",
+            "seg_start": 369.96960000000007,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index38.ts",
+            "seg_start": 379.57920000000007,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index39.ts",
+            "seg_start": 389.18880000000007,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index40.ts",
+            "seg_start": 398.7984000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index41.ts",
+            "seg_start": 410.0096000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index42.ts",
+            "seg_start": 419.6192000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index43.ts",
+            "seg_start": 429.2288000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index44.ts",
+            "seg_start": 438.8384000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index45.ts",
+            "seg_start": 450.0496000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index46.ts",
+            "seg_start": 459.6592000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index47.ts",
+            "seg_start": 469.2688000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index48.ts",
+            "seg_start": 478.8784000000001,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        },
+        {
+            "alerts": {
+                "moviment": false,
+                "other": false,
+                "person": false,
+                "thumbnail": ""
+            },
+            "name": "index49.ts",
+            "seg_start": 480.07960000000014,
+            "uuid_fragmento": "05b6db49-4f61-477c-8f21-6a0d40794324"
+        }
+    ],
+    "start_time": "timestamp",
+    "stop_time": "timestamp"
+}
