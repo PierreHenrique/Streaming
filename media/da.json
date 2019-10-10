@@ -1,0 +1,257 @@
+{
+  "fragments": [
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 0,
+      "name": "index0.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 9.6,
+      "name": "index1.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 19.2,
+      "name": "index2.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 28.799999999999997,
+      "name": "index3.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 40.31999999999999,
+      "name": "index4.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 49.919999999999995,
+      "name": "index5.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 59.519999999999996,
+      "name": "index6.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 69.11999999999999,
+      "name": "index7.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 78.71999999999998,
+      "name": "index8.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 90.23999999999998,
+      "name": "index9.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 99.83999999999997,
+      "name": "index10.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 109.43999999999997,
+      "name": "index11.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 119.03999999999996,
+      "name": "index12.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 128.63999999999996,
+      "name": "index13.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 140.15999999999997,
+      "name": "index14.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 149.75999999999996,
+      "name": "index15.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 159.35999999999996,
+      "name": "index16.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 168.95999999999995,
+      "name": "index17.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 178.55999999999995,
+      "name": "index18.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 190.07999999999996,
+      "name": "index19.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 199.67999999999995,
+      "name": "index20.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 209.27999999999994,
+      "name": "index21.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 218.87999999999994,
+      "name": "index22.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 228.47999999999993,
+      "name": "index23.ts"
+    },
+    {
+      "alerts": {
+        "moviment": false,
+        "other": false,
+        "person": false,
+        "thumbnail": ""
+      },
+      "seg_start": 229.63999999999993,
+      "name": "index24.ts"
+    }
+  ],
+  "start_time": "1570546800",
+  "stop_time": "1570547280",
+  "uuid": "da27963f-ccb0-4478-9361-e1de4807efd5"
+}
