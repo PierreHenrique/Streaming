@@ -1,5 +1,5 @@
 {
-  "fragments": [
+  "fragment": [
     {
       "alerts": {
         "moviment": false,
@@ -122,10 +122,10 @@
     },
     {
       "alerts": {
-        "moviment": false,
-        "other": false,
+        "moviment": true,
+        "other": true,
         "person": false,
-        "thumbnail": ""
+        "thumbnail": "https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/07/03165544/Thumbnail-Youtube-o-que-%C3%A9-8-dicas-de-como-fazer-e-principais-ferramentas-300x200.jpg"
       },
       "seg_start": 119.03999999999996,
       "name": "index12.ts"
@@ -172,10 +172,10 @@
     },
     {
       "alerts": {
-        "moviment": false,
+        "moviment": true,
         "other": false,
-        "person": false,
-        "thumbnail": ""
+        "person": true,
+        "thumbnail": "https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/07/03165544/Thumbnail-Youtube-o-que-%C3%A9-8-dicas-de-como-fazer-e-principais-ferramentas-300x200.jpg"
       },
       "seg_start": 168.95999999999995,
       "name": "index17.ts"
